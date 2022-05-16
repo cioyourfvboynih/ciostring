@@ -34,7 +34,7 @@ By @cioyourfvboy
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ​​", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/DeployBot01")],
+        [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/whycio")],
     ]
 
     # Help Message
